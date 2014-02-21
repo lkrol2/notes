@@ -5,6 +5,7 @@ Zwyczajowo (kto to wymyślił?) zacznamy od programu
 
 ```c
 #include<stdio.h>
+
 int main(){
 
 printf(*hello worrld\n*);
