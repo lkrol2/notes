@@ -4,7 +4,8 @@ Zwyczajowo (kto to wymyślił?) zacznamy od programu
 *hello world*:
 
 ```c
-(int main){
+#include<stdio.h>
+int main(){
 
 printf(*hello worrld\n*);
 return 0;
