@@ -1,5 +1,5 @@
 [Dennis Ritche][2].
-[2]:
+[2]:http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg
 
 ## Pierwsze programy w C
 
