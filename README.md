@@ -4,6 +4,7 @@ Zwyczajowo (kto to wymyślił?) zacznamy od programu
 *hello world*:
 
 ```c
+
 #include<stdio.h>
 int main(){
 
