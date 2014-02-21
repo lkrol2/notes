@@ -1,8 +1,8 @@
 
-![d:m.Ritchie][2].
-[2]:(http://en.wikipedia.org/wiki/File:Dennis_MacAlistair_Ritchie.jpg#file)
 
 ## Pierwsze programy w C
+
+![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
 
 Zwyczajowo (kto to wymyślił?) zacznamy od programu
 *hello world*:
