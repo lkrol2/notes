@@ -11,3 +11,6 @@ int main(){
 printf(*hello worrld\n*);
 return 0;
 }
+
+praktycznie każdy język programowania ma taki program,
+zob.[Hello world program](http://pl.wikipedia.org/wiki/Hello_world)
