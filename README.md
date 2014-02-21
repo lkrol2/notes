@@ -15,4 +15,4 @@ return 0;
 praktycznie każdy język programowania ma taki program,
 zob.[Hello world program][1].
 
-[1]:(http://pl.wikipedia.org/wiki/Hello_world)
+[1]:http://pl.wikipedia.org/wiki/Hello_world
