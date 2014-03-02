@@ -1,5 +1,4 @@
 
-
 ## Pierwsze programy w C
 
 ![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
@@ -24,7 +23,7 @@ praktycznie kazdy jezyk programowania ma taki program [Hello world program][1].
 ## TODO
 
 
-W niedzilę:
+W niedzielę:
 
 
 1.Porozmawiać o GITHUB DESKOP.
