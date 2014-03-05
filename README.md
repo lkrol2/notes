@@ -1,5 +1,5 @@
-
 ## Pierwsze programy w C
+$git config - global core.editor "subl-n-w"
 
 ![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
 
