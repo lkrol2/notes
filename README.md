@@ -1,12 +1,5 @@
 ## Pierwsze programy w C
 $git config - global core.editor "subl-n-w"
-}
-  
-  h1 {
- + Font-size: 40px;
-    font-style: italic;
-    margin-bottom: 0,5 em;
-    color: # EE913F;
 
 ![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
 
