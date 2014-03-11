@@ -31,3 +31,6 @@ W niedzielę:
    1.Powtórzyć notację Markdown.
    
       1.Markdown online.
+Niezbędne dokumenty do pobrania:
+  <% = Link_to "Podanie do Dyrektora Szkoły i zaświadczenie", "/ dokumenty/praktyki1.pdf"%>
+  i <% = link_to "Dziennik Praktyk", "/ dokumenty/praktyki2.pdf"%>.
