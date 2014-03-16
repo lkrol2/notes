@@ -47,8 +47,54 @@
 <br>(sqrt(4*exp(12.4)))/(2*tan*(pi*0.47))
 <br>(sqrt(4*exp(12.4)))/(2*tan(pi*0.47))
 
+***
+### zadanie liczba
+
+clc
+format compact
+format long
+s=0;
+for n=0:10
+    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
+    abs(s-pi)
+end
 
 
+***
+## My fun
+
+function f1 = myfun(x)
+f1 =x.^3-2*x-5;
+end
+***
+### fzero
+clc
+fzero(@sin,3);
+fzero(@cos,[1 2]);
+f=@(x)x.^3-2*x-5;
+fplot(f,[-2 3])
+fzero(f,-8)
+roots([1 0 -2 -5])
+***
+###zadanie
+
+clc
+format compact
+format long
+s=0;
+x=0:10;
+y=[];
+for n=0:10
+    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
+    ba=abs(s-pi);
+    y=[y,ba];
+    
+end
+semilogy(x,y,'o')
+title('blad absolutny przyblizenia liczby \pi')
+xlabel('N')
+ylabel('\pi-S_N|')
+****
 ### zadanie NEWTON
 
 format compact _%zwarte linie%_
