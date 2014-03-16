@@ -1,5 +1,14 @@
 ## Pierwsze programy w C
-$git config - global core.editor "subl-n-w"
+<!doctype html>
+<html lang=pl>
+<head>
+  <meta charset=utf-8>
+  <title>Szablon strony HTML5</title>
+</head>
+<body>
+  <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
+</body>
+</html>
 
 ![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
 
