@@ -1,4 +1,7 @@
 ## Pierwsze programy w C
+Szablon pliku HTML5:
+
+```html
 <!doctype html>
 <html lang=pl>
 <head>
@@ -6,9 +9,11 @@
   <title>Szablon strony HTML5</title>
 </head>
 <body>
-  <p>ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ</p>
+  <p>Lila</p>
 </body>
 </html>
+```
+***
 
 ![d.m.Ritchie](http://upload.wikimedia.org/wikipedia/commons/0/08/Medal_lg.jpeg)
 
@@ -40,5 +45,15 @@ W niedzielę:
    1.Powtórzyć notację Markdown.
    
       1.Markdown online.
-Niezbędne dokumenty do pobrania:
-<% = Link_to "Podanie do Dyrektora Szkoły i zaświadczenie", "/ dokumenty/praktyki1.pdf"%> i <% = link_to "Dziennik Praktyk", "/ dokumenty/praktyki2.pdf"%>.
+
+
+* **bold**      wpisać na początku i na końcu dwie * 
+* _italic_        wpisać na początku i na końcu jeden _
+* __bold__      wpisać na początku i na końcu dwa _
+* ___bold + italic___    wpisać na początku i na końcu  trzy _
+* #zwiększanie czcionki  <quote>wpisać na początku #</quote>
+ **Jarosław Gowin**doskonale wie, __będąc__ w _polityce_ ___od dawna___, <br>że nie ma w polityce 
+ czegoś takiego jak zupełnie zamknięte drzwi. <br>Nasze drzwi nie są zupełnie zamknięte - powiedział 
+ rzecznik PiS. <br>Dopytywany, czy Prawo i Sprawiedliwość podjęłoby rozmowy z Gowinem, <br>Hofman odparł, 
+ że jego partia jest gotowa "na rozmowy o zmianie władzy<br> w Polsce właściwie z każdym". - Na rozmowy 
+ dla rozmów i przepychanki szkoda czasu - dodał.
