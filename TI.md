@@ -8,3 +8,7 @@ HTML-I-CSS
 <br>Linki [linki](https://github.com/jekyll/jekyll)
 <br> Git [Git](https://github.com/h5c3j)
 <br> URL obrazka [URL] (http://paul4.blog.onet.pl/2005/12/23/jak-wstawic-url-do-obrazka/)
+<br>Notatki [notatka 1][1]:(https://github.com/h5c3j/ti)
+[notatka2][2]:(https://github.com/h5c3j/webcomponents-sketchbook)
+[notatka3-strona git][3]:(http://pages.github.com/)
+[notatka4][4]:(https://github.com/h5c3j)
