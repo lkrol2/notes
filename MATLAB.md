@@ -50,54 +50,54 @@
 ***
 ### zadanie liczba
 
-clc
-format compact
-format long
-s=0;
-for n=0:10
-    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
-    abs(s-pi)
-end
+<br>clc
+<br>format compact
+<br>format long
+<br>s=0;
+<br>for n=0:10
+<br>    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
+<br>    abs(s-pi)
+<br>end
 
 
 ***
 ## My fun
 
-function f1 = myfun(x)
-f1 =x.^3-2*x-5;
-end
+<br>function f1 = myfun(x)
+<br>f1 =x.^3-2*x-5;
+<br>end
 ***
 ### fzero
-clc
-fzero(@sin,3);
-fzero(@cos,[1 2]);
-f=@(x)x.^3-2*x-5;
-fplot(f,[-2 3])
-fzero(f,-8)
-roots([1 0 -2 -5])
+<br>clc
+<br>fzero(@sin,3);
+<br>fzero(@cos,[1 2]);
+<br>f=@(x)x.^3-2*x-5;
+<br>fplot(f,[-2 3])
+<br>fzero(f,-8)
+<br>roots([1 0 -2 -5])
 ***
 ###zadanie
 
-clc
-format compact
-format long
-s=0;
-x=0:10;
-y=[];
-for n=0:10
-    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
-    ba=abs(s-pi);
-    y=[y,ba];
+<br>clc
+<br>format compact
+<br>format long
+<br>s=0;
+<br>x=0:10;
+<br>y=[];
+<br>for n=0:10
+<br>    s=s+(4/(8*n+1)-2/(8*n+4)-1/(8*n+5)-1/(8*n+6))/16^n;
+<br>    ba=abs(s-pi);
+<br>    y=[y,ba];
     
-end
-semilogy(x,y,'o')
-title('blad absolutny przyblizenia liczby \pi')
-xlabel('N')
-ylabel('\pi-S_N|')
+<br>end
+<br>semilogy(x,y,'o')
+<br>title('blad absolutny przyblizenia liczby \pi')
+<br>xlabel('N')
+<br>ylabel('\pi-S_N|')
 ****
 ### zadanie NEWTON
 
-format compact _%zwarte linie%_
+<br>format compact _%zwarte linie%_
 <br>format long _%obliczenia okazują się bardziej dokladne%_
 <br>clc
 <br>x=-2*pi:0.1:2*pi;
