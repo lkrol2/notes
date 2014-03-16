@@ -21,13 +21,13 @@ format compact _%zwarte linie%_
      
      inna wersja
      
-x0=1.5;
-for i=1:10
-    x1=x0-(cos(x0)+sin(x0))/(-sin(x0)+cos(x0));
-    if abs(x1-x0)<10^-3
-        break %robi się w instrukji warunkowej%
-    end
-    x0=x1;
-end
-i
-x1/pi    
+<br>x0=1.5;
+<br>for i=1:10
+<br>    x1=x0-(cos(x0)+sin(x0))/(-sin(x0)+cos(x0));
+<br>    if abs(x1-x0)<10^-3
+<br>        break %robi się w instrukji warunkowej%
+<br>    end
+<br>    x0=x1;
+<br>end
+<br>i
+<br>x1/pi    
