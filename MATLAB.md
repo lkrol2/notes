@@ -1,3 +1,54 @@
+##zadanie 2014-02-21 18:23 
+
+<br>2+2
+<br>8^4
+<br>8+ans
+<br>log4
+<br>log(4
+<br>log(4)
+<br>plot
+<br>plot(x,y)
+<br>plot(log4)
+<br>sin(3)
+<br>sin(pi/9)
+<br>2*1.73/2.72^3-17.2+14./7
+<br>x=-ln2.4+sgrtsin(4) -exp(3.4)/2pi
+<br>x=-ln2.4+sgrtsin(4)-exp(3.4)/2pi
+<br>x=-ln2.4+sgrt sin(4)-exp(3.4)/2pi
+<br>x=-ln2.4
+<br>x= -ln2.4
+<br>-ln2.4
+<br>[-ln2.4]
+<br>(-ln(2.4)+sqrt(sin(4))-4*exp(3.4))/(2*pi)
+<br>(-ln(2.4)+sqrt(sin(4))-4*exp(3.4)))/(2*pi)
+<br>(-log(2.4)+sqrt(sin(4))-4*exp(3.4)))/(2*pi)
+<br>(-log(2.4)+sqrt(sin(4)-4*exp(3.4)))/(2*pi)
+<br>(sqrt4xp(12.4))/(2tan(pi*0.47))
+<br>(sqrt4xp(12.4)/(2tan(pi*0.47))
+<br>(sqrt4exp(12.4)/(2tan(pi*0.47))
+<br>(sqrt4exp(12.4))/(2tan(pi*0.47))
+<br>(sqrt4exp(12.4))/(2tan(pi*0.47)))
+<br>(sqrt4*exp(12.4))/(2tan(pi*0.47)))
+<br>(sqrt4*exp(12.4)/(2tan(pi*0.47)))
+<br>(sqrt*4exp(12.4)/(2tan(pi*0.47)))
+<br>(sqrt4exp(12.4)/(2tan*(pi*0.47)))
+<br>(sqrt4*exp(12.4)/(2tan*(pi*0.47)))
+<br>sqr(4*exp(12.4)/(2tan*(pi*0.47)))
+<br>sqrt(4*exp(12.4)/(2tan*(pi*0.47)))
+<br>sqrt(4*exp(12.4))/(2tan*(pi*0.47)))
+<br>sqrt(4*exp(12.4))/(2tan*(pi*0.47))
+<br>(sqrt(4*exp(12.4))/(2tan*(pi*0.47))
+<br>(sqrt(4*exp(12.4))/(2*tan*(pi*0.47))
+<br>(sqrt(4*exp*(12.4))/(2*tan*(pi*0.47))
+<br>(sqrt*(4*exp*(12.4))/(2*tan*(pi*0.47))
+<br>(sqrt*(4*exp*(12.4)))/(2*tan*(pi*0.47))
+<br>(sgrt*(4*exp*(12.4)))/(2*tan*(pi*0.47))
+<br>(sqrt(4*exp*(12.4)))/(2*tan*(pi*0.47))
+<br>(sqrt(4*exp(12.4)))/(2*tan*(pi*0.47))
+<br>(sqrt(4*exp(12.4)))/(2*tan(pi*0.47))
+
+
+
 ### zadanie NEWTON
 
 format compact _%zwarte linie%_
